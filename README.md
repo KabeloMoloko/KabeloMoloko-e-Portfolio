@@ -116,16 +116,6 @@ maria02@gmail.com
 
 ---
 
-## My Interview Video
-
-<p align="center">
-  <a href="https://youtu.be/wirNxRV5rn8">
-    <img src="https://img.youtube.com/vi/wirNxRV5rn8/0.jpg" width="700" alt="Mock Interview Video">
-  </a>
-</p>
-
----
-
 ## Reflection: Coding in Markdown (STAR Method)
 
 **Situation:**  
@@ -141,6 +131,17 @@ I learned how to use headings, lists, links, and badges in Markdown. I structure
 I successfully created a well-structured and visually appealing GitHub portfolio. I now understand how Markdown can be used to present professional content effectively.
 
 ---
+
+## My Interview Video
+
+<p align="center">
+  <a href="https://youtu.be/wirNxRV5rn8">
+    <img src="https://img.youtube.com/vi/wirNxRV5rn8/0.jpg" width="700" alt="Mock Interview Video">
+  </a>
+</p>
+
+---
+
 
 ## Reflection: Mock Interview (STAR Method)
 
